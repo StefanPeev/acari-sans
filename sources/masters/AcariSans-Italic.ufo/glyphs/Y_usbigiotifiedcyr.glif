@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yusbigiotifiedcyr" format="2">
+  <advance width="1984"/>
+  <unicode hex="046C"/>
+  <outline>
+    <contour>
+      <point x="1171" y="788" type="line"/>
+      <point x="360" y="788" type="line"/>
+      <point x="322" y="624" type="line"/>
+      <point x="1070" y="624" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="0" type="line"/>
+      <point x="601" y="1448" type="line"/>
+      <point x="410" y="1448" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1834" y="0" type="line"/>
+      <point x="1746" y="572" type="line" smooth="yes"/>
+      <point x="1722" y="730"/>
+      <point x="1573" y="787"/>
+      <point x="1432" y="787" type="curve"/>
+      <point x="1936" y="1280" type="line"/>
+      <point x="1973" y="1448" type="line"/>
+      <point x="863" y="1448" type="line"/>
+      <point x="827" y="1280" type="line"/>
+      <point x="1090" y="787" type="line"/>
+      <point x="910" y="787"/>
+      <point x="780" y="731"/>
+      <point x="684" y="570" type="curve" smooth="yes"/>
+      <point x="347" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="875" y="496" type="line" smooth="yes"/>
+      <point x="930" y="587"/>
+      <point x="998" y="621"/>
+      <point x="1075" y="621" type="curve" smooth="yes"/>
+      <point x="1133" y="621" type="line"/>
+      <point x="993" y="0" type="line"/>
+      <point x="1180" y="0" type="line"/>
+      <point x="1319" y="621" type="line"/>
+      <point x="1403" y="621" type="line" smooth="yes"/>
+      <point x="1482" y="621"/>
+      <point x="1536" y="523"/>
+      <point x="1550" y="440" type="curve" smooth="yes"/>
+      <point x="1629" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1305" y="782" type="line"/>
+      <point x="1049" y="1279" type="line"/>
+      <point x="1705" y="1279" type="line"/>
+      <point x="1214" y="782" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="257.45" x="1085" y="584"/>
+  <guideline angle="77.5439" x="1088" y="0"/>
+</glyph>
