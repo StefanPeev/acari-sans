@@ -1,3 +1,5 @@
+![Sample Image](documentation/Acari_Sans_950x475_01.png)  
+  
 # Acari Sans
 
 [![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
@@ -14,8 +16,6 @@
 
 Acari Sans (named after a fish native from Central and South America, also referred to as 'cascudo') is forked from Hanken Grotesk Version 1.045, last version that supports Cyrillic. The first modifications were duplexed tabular numerals, and fixing of some glyphs.  
 In the new versions of Acari Sans (starting from v.1.070), the UPM value has been changed to 2048, which creates an entirely new geometry of glyphs. The H-height is now 1448 and the x-height is 1064. The Acari Sans family is based on 3 masters (Light, Bold, Black) with which are created the following weights: Light=300, Regular=400, Medium=500, SemiBold=600, Bold=700, ExtraBold=800, Black=900.  
-
-![Sample Image](documentation/Acari_Sans_950x475_01.png)
 
 ## About
 
@@ -61,4 +61,38 @@ See [images](/images/) and [Gallery](/images/Gallery.md).
 
 ## Repository Layout
 
-This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
+This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.  
+  
+Localfonts projects
+-------------------
+  
+The primarily aim of the project **LOCALFONTS** is to extend Cyrillic in fonts published under licenses which permit modifications and derivative works by adding Cyrillic local forms (Bulgarian, Serbian, Macedonian, Ukrainian etc.).  
+The **Localfonts** project consists of the following fonts:
+
++ [Acari Sans](https://github.com/StefanPeev/acari-sans/tree/local) 
++ [Common Sans](https://github.com/StefanPeev/Common-Sans)  
++ [Common Serif](https://github.com/StefanPeev/Common-Serif)  
++ [Coval](https://github.com/StefanPeev/coval)  
++ [Dinish](https://github.com/StefanPeev/dinish/tree/cyrillic)  
++ [Ezerovo](https://github.com/StefanPeev/Ezerovo)  
++ [Gabriela](https://github.com/StefanPeev/Gabriela)  
++ [Grazhdanskiy Shrift](https://github.com/StefanPeev/Grazhdanskiy-Shrift)  
++ [Involve](https://github.com/StefanPeev/Involve)  
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)  
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)  
++ [Listopad | Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Perun](https://github.com/StefanPeev/Perun)  
++ [Pliska](https://github.com/StefanPeev/Pliska)  
++ [Prolog | Libre Moretus](https://github.com/StefanPeev/libre-moretus/tree/prolog)  
++ [Repo](https://github.com/StefanPeev/Repo)  
++ [Scada | Cascade](https://github.com/StefanPeev/Scada-Cascade/tree/local)  
++ [Spritulo](https://github.com/StefanPeev/spritulo)  
++ [Terminalia](https://github.com/StefanPeev/Terminalia)  
++ [Veleka](https://github.com/StefanPeev/Veleka)  
+  
+Donations
+---------
+
+If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).
+
