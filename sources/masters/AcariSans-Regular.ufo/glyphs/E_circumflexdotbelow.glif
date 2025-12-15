@@ -2,7 +2,7 @@
 <glyph name="Ecircumflexdotbelow" format="2">
   <advance width="1271"/>
   <unicode hex="1EC6"/>
-  <anchor x="1154" y="-0" name="ogonek"/>
+  <anchor x="1154" y="0" name="ogonek"/>
   <outline>
     <component base="Edotbelow"/>
     <component base="circumflexcomb" xOffset="1081" yOffset="398"/>

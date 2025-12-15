@@ -8,7 +8,7 @@
       <point x="1137.72" y="76.397" type="line"/>
       <point x="928.199" y="1447.88" type="line"/>
       <point x="863.812" y="1447.88" type="line"/>
-      <point x="7.03" y="76.397" type="line"/>
+      <point x="7.03002" y="76.397" type="line"/>
       <point x="-11.52" y="0" type="line"/>
     </contour>
     <contour>
@@ -17,7 +17,7 @@
       <point x="198.907" y="76.5" type="line"/>
       <point x="886.68" y="1212.3" type="line"/>
       <point x="814.645" y="1212.3" type="line"/>
-      <point x="962.995" y="76.383" type="line"/>
+      <point x="962.995" y="76.3829" type="line"/>
     </contour>
   </outline>
   <guideline angle="77" x="1152.16" y="0"/>

@@ -2,7 +2,7 @@
 <glyph name="ohornhoi" format="2">
   <advance width="1271"/>
   <unicode hex="1EDF"/>
-  <anchor x="694" y="-0" name="ogonek"/>
+  <anchor x="694" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
     <component base="hookabovecomb" xOffset="901" yOffset="87"/>

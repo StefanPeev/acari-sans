@@ -2,17 +2,17 @@
 <glyph name="Acircumflexhoi" format="2">
   <advance width="1342"/>
   <unicode hex="1EA8"/>
-  <anchor x="1281" y="-0" name="ogonek"/>
+  <anchor x="1281" y="0" name="ogonek"/>
   <anchor x="675" y="1551" name="center"/>
   <anchor x="675" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="1070" yOffset="400"/>
+    <component base="circumflexcomb_hookabovecomb.case" xOffset="1070" yOffset="409"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>A+circumflexcomb_hookabovecomb</string>
+  <string>A+'circumflexcomb_hookabovecomb.case'</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_gravecomb.case" format="2">
+  <anchor x="-436" y="1192" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-516.284" y="1192" type="line"/>
+      <point x="-478.172" y="1352.67" type="line"/>
+      <point x="-700.172" y="1352.67" type="line"/>
+      <point x="-737.284" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="-148.284" y="1192" type="line"/>
+      <point x="-110.172" y="1352.67" type="line"/>
+      <point x="-332.172" y="1352.67" type="line"/>
+      <point x="-369.284" y="1192" type="line"/>
+    </contour>
+    <contour>
+      <point x="-330.463" y="1402.63" type="line"/>
+      <point x="-505.211" y="1613.59" type="line"/>
+      <point x="-788.859" y="1613.59" type="line"/>
+      <point x="-516.831" y="1402.63" type="line"/>
+    </contour>
+  </outline>
+</glyph>

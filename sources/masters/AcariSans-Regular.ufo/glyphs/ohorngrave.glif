@@ -2,7 +2,7 @@
 <glyph name="ohorngrave" format="2">
   <advance width="1271"/>
   <unicode hex="1EDD"/>
-  <anchor x="694" y="-0" name="ogonek"/>
+  <anchor x="694" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
     <component base="gravecomb" xOffset="733"/>

@@ -6,13 +6,13 @@
   <anchor x="690" y="1555" name="center"/>
   <anchor x="690" y="-150" name="bottom"/>
   <outline>
-    <component base="Abreve"/>
-    <component base="tildecomb" xOffset="1139" yOffset="754"/>
+    <component base="A"/>
+    <component base="brevecomb_tildecomb.case" xOffset="1086" yOffset="414"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>Abreve+tildecomb</string>
+  <string>A+'brevecomb_tildecomb.case'</string>
   </dict>
   </lib>
 </glyph>

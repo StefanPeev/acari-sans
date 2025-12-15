@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedillacomb" format="2">
   <unicode hex="0327"/>
-  <anchor x="-312" y="-0" name="_cedilla"/>
+  <anchor x="-312" y="0" name="_cedilla"/>
   <outline>
     <contour>
       <point x="-353" y="0" type="line"/>

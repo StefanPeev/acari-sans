@@ -13,8 +13,8 @@
       <point x="226.816" y="1063.94" type="line"/>
       <point x="196.608" y="932.608" type="line"/>
       <point x="808.704" y="932.608" type="line"/>
-      <point x="-22.528" y="118.272" type="line"/>
-      <point x="-48.384" y="0" type="line"/>
+      <point x="-22.5279" y="118.272" type="line"/>
+      <point x="-48.3839" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" name="vertical" x="680" y="0"/>

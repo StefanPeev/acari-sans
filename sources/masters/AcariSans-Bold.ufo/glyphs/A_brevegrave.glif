@@ -7,12 +7,12 @@
   <anchor x="690" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb_gravecomb" xOffset="1140" yOffset="384"/>
+    <component base="brevecomb_gravecomb.case" xOffset="1130" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>Abreve+gravecomb</string>
+  <string>A+'brevecomb_gravecomb.case'</string>
   </dict>
   </lib>
 </glyph>

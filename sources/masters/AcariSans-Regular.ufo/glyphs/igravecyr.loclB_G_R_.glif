@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igravecyr.loclBGR" format="2">
   <advance width="1171"/>
-  <anchor x="1005" y="-0" name="ogonek"/>
+  <anchor x="1005" y="0" name="ogonek"/>
   <anchor x="1239" y="1064" name="horn"/>
   <outline>
     <component base="icyr.loclBGR"/>

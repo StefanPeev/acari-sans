@@ -29,8 +29,8 @@
       <point x="159.488" y="1063.94" type="line"/>
       <point x="127.232" y="932.5" type="line"/>
       <point x="286.208" y="932.5" type="line"/>
-      <point x="73.728" y="0.006" type="line"/>
-      <point x="237.312" y="0.006" type="line"/>
+      <point x="73.728" y="0.00599146" type="line"/>
+      <point x="237.312" y="0.00599146" type="line"/>
       <point x="449.28" y="932.5" type="line"/>
       <point x="669.184" y="932.5" type="line"/>
       <point x="699.648" y="1063.94" type="line"/>

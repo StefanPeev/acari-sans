@@ -2,7 +2,7 @@
 <glyph name="ohornacute" format="2">
   <advance width="1271"/>
   <unicode hex="1EDB"/>
-  <anchor x="694" y="-0" name="ogonek"/>
+  <anchor x="694" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
     <component base="acutecomb" xOffset="981"/>

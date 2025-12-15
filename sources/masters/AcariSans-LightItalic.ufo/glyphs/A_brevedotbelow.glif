@@ -5,7 +5,7 @@
   <anchor x="1135" y="0" name="ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="1101" yOffset="428"/>
+    <component base="brevecomb" xOffset="1171" yOffset="428"/>
     <component base="dotbelowcomb" xOffset="825"/>
   </outline>
   <lib>

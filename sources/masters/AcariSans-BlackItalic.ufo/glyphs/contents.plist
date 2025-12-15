@@ -760,12 +760,20 @@
   <string>brevecomb.glif</string>
   <key>brevecomb_acutecomb</key>
   <string>brevecomb_acutecomb.glif</string>
+  <key>brevecomb_acutecomb.case</key>
+  <string>brevecomb_acutecomb.case.glif</string>
   <key>brevecomb_gravecomb</key>
   <string>brevecomb_gravecomb.glif</string>
+  <key>brevecomb_gravecomb.case</key>
+  <string>brevecomb_gravecomb.case.glif</string>
   <key>brevecomb_hookabovecomb</key>
   <string>brevecomb_hookabovecomb.glif</string>
+  <key>brevecomb_hookabovecomb.case</key>
+  <string>brevecomb_hookabovecomb.case.glif</string>
   <key>brevecomb_tildecomb</key>
   <string>brevecomb_tildecomb.glif</string>
+  <key>brevecomb_tildecomb.case</key>
+  <string>brevecomb_tildecomb.case.glif</string>
   <key>breveinvertedcomb</key>
   <string>breveinvertedcomb.glif</string>
   <key>brokenbar</key>
@@ -806,12 +814,20 @@
   <string>circumflexcomb.glif</string>
   <key>circumflexcomb_acutecomb</key>
   <string>circumflexcomb_acutecomb.glif</string>
+  <key>circumflexcomb_acutecomb.case</key>
+  <string>circumflexcomb_acutecomb.case.glif</string>
   <key>circumflexcomb_gravecomb</key>
   <string>circumflexcomb_gravecomb.glif</string>
+  <key>circumflexcomb_gravecomb.case</key>
+  <string>circumflexcomb_gravecomb.case.glif</string>
   <key>circumflexcomb_hookabovecomb</key>
   <string>circumflexcomb_hookabovecomb.glif</string>
+  <key>circumflexcomb_hookabovecomb.case</key>
+  <string>circumflexcomb_hookabovecomb.case.glif</string>
   <key>circumflexcomb_tildecomb</key>
   <string>circumflexcomb_tildecomb.glif</string>
+  <key>circumflexcomb_tildecomb.case</key>
+  <string>circumflexcomb_tildecomb.case.glif</string>
   <key>clickretroflex</key>
   <string>clickretroflex.glif</string>
   <key>colon</key>
@@ -858,12 +874,20 @@
   <string>dieresiscomb.glif</string>
   <key>dieresiscomb_acutecomb</key>
   <string>dieresiscomb_acutecomb.glif</string>
+  <key>dieresiscomb_acutecomb.case</key>
+  <string>dieresiscomb_acutecomb.case.glif</string>
   <key>dieresiscomb_caroncomb</key>
   <string>dieresiscomb_caroncomb.glif</string>
+  <key>dieresiscomb_caroncomb.case</key>
+  <string>dieresiscomb_caroncomb.case.glif</string>
   <key>dieresiscomb_gravecomb</key>
   <string>dieresiscomb_gravecomb.glif</string>
+  <key>dieresiscomb_gravecomb.case</key>
+  <string>dieresiscomb_gravecomb.case.glif</string>
   <key>dieresiscomb_macroncomb</key>
   <string>dieresiscomb_macroncomb.glif</string>
+  <key>dieresiscomb_macroncomb.case</key>
+  <string>dieresiscomb_macroncomb.case.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
   <key>djecyr</key>
@@ -1444,6 +1468,8 @@
   <string>ringcomb.glif</string>
   <key>ringcomb_acutecomb</key>
   <string>ringcomb_acutecomb.glif</string>
+  <key>ringcomb_acutecomb.case</key>
+  <string>ringcomb_acutecomb.case.glif</string>
   <key>rinvertedbreve</key>
   <string>rinvertedbreve.glif</string>
   <key>ruble</key>

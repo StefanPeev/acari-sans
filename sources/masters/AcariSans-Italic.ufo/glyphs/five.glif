@@ -32,8 +32,8 @@
       <point x="322.56" y="127.232"/>
       <point x="243.968" y="221.696"/>
       <point x="243.968" y="427.776" type="curve"/>
-      <point x="84.48" y="388.608" type="line"/>
-      <point x="84.48" y="144.64"/>
+      <point x="84.4799" y="388.608" type="line"/>
+      <point x="84.4799" y="144.64"/>
       <point x="239.616" y="-20.48"/>
     </contour>
   </outline>

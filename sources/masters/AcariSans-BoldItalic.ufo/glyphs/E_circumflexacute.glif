@@ -6,12 +6,12 @@
   <anchor x="597" y="-120" name="bottom"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb_acutecomb" xOffset="1290" yOffset="428"/>
+    <component base="circumflexcomb_acutecomb.case" xOffset="1384" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>E+circumflexcomb_acutecomb</string>
+  <string>E+'circumflexcomb_acutecomb.case'</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

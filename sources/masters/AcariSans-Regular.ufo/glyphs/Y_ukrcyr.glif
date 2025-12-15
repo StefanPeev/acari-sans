@@ -2,7 +2,7 @@
 <glyph name="Yukrcyr" format="2">
   <advance width="601"/>
   <unicode hex="0407"/>
-  <anchor x="385" y="-0" name="ogonek"/>
+  <anchor x="385" y="0" name="ogonek"/>
   <outline>
     <component base="Iukrcyr"/>
     <component base="dieresiscomb" xOffset="727" yOffset="426"/>

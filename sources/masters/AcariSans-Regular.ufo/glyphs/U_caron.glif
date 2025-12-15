@@ -3,7 +3,7 @@
   <advance width="1390"/>
   <unicode hex="01D3"/>
   <anchor x="1441" y="1448" name="horn"/>
-  <anchor x="836" y="-0" name="ogonek"/>
+  <anchor x="836" y="0" name="ogonek"/>
   <outline>
     <component base="U"/>
     <component base="caroncomb" xOffset="1090" yOffset="426"/>

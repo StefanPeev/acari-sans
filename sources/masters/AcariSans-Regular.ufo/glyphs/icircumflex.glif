@@ -2,7 +2,7 @@
 <glyph name="icircumflex" format="2">
   <advance width="513"/>
   <unicode hex="00EE"/>
-  <anchor x="340" y="-0" name="ogonek"/>
+  <anchor x="340" y="0" name="ogonek"/>
   <outline>
     <component base="dotlessi"/>
     <component base="circumflexcomb" xOffset="652" yOffset="-28"/>

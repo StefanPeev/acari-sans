@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_caroncomb.case" format="2">
+  <anchor x="-433" y="1192.33" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-493.389" y="1193" type="line"/>
+      <point x="-462.493" y="1317.67" type="line"/>
+      <point x="-625.493" y="1317.67" type="line"/>
+      <point x="-655.389" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="-150.389" y="1193" type="line"/>
+      <point x="-119.493" y="1317.67" type="line"/>
+      <point x="-282.493" y="1317.67" type="line"/>
+      <point x="-312.389" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="-385.258" y="1333.63" type="line"/>
+      <point x="3.80648" y="1558.24" type="line"/>
+      <point x="-154.914" y="1558.24" type="line"/>
+      <point x="-369.56" y="1427.84" type="line"/>
+      <point x="-515.362" y="1558.24" type="line"/>
+      <point x="-668.962" y="1558.24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

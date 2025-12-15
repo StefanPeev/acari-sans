@@ -2,9 +2,17 @@
 <glyph name="Abrevetilde" format="2">
   <advance width="1388"/>
   <unicode hex="1EB4"/>
+  <anchor x="1390" y="0" name="ogonek"/>
+  <anchor x="696" y="1550" name="center"/>
+  <anchor x="696" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="1105" yOffset="421"/>
-    <component base="tildecomb" xOffset="1143" yOffset="751"/>
+    <component base="brevecomb_tildecomb.case" xOffset="1075" yOffset="414"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+'brevecomb_tildecomb.case'</string>
+  </dict>
+  </lib>
 </glyph>

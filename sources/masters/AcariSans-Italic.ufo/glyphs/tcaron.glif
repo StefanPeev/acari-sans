@@ -38,8 +38,8 @@
       <point x="151.04" y="255.744"/>
       <point x="145.664" y="219.392"/>
       <point x="145.664" y="182.016" type="curve" smooth="yes"/>
-      <point x="145.664" y="48.384"/>
-      <point x="230.4" y="-21.248"/>
+      <point x="145.664" y="48.3841"/>
+      <point x="230.4" y="-21.2479"/>
     </contour>
   </outline>
 </glyph>

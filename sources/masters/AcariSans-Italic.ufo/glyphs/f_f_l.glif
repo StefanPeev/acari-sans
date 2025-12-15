@@ -24,12 +24,12 @@
       <point x="1278.72" y="155.648"/>
       <point x="1272.56" y="124.672"/>
       <point x="1272.56" y="93.696" type="curve" smooth="yes"/>
-      <point x="1272.55" y="7.268"/>
+      <point x="1272.55" y="7.26802"/>
       <point x="1318.93" y="-20.48"/>
       <point x="1400.58" y="-20.48" type="curve" smooth="yes"/>
-      <point x="1441.63" y="-20.48"/>
+      <point x="1441.64" y="-20.48"/>
       <point x="1482.35" y="-13.85"/>
-      <point x="1522.43" y="-2.816" type="curve"/>
+      <point x="1522.43" y="-2.81598" type="curve"/>
       <point x="1544.19" y="145.408" type="line"/>
       <point x="1520.64" y="135.424"/>
       <point x="1497.6" y="128.512"/>
@@ -52,7 +52,7 @@
       <point x="785.408" y="1468.42" type="curve" smooth="yes"/>
       <point x="579.172" y="1468.42"/>
       <point x="394.407" y="1360.11"/>
-      <point x="340.242" y="1155.33" type="curve" smooth="yes"/>
+      <point x="340.242" y="1155.32" type="curve" smooth="yes"/>
       <point x="316.16" y="1064.07" type="line"/>
       <point x="159.488" y="1064.07" type="line"/>
       <point x="128" y="932.5" type="line"/>

@@ -7,12 +7,12 @@
   <anchor x="670" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb_acutecomb" xOffset="995" yOffset="285"/>
+    <component base="ringcomb_acutecomb.case" xOffset="995" yOffset="352"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>A+ringcomb_acutecomb</string>
+  <string>A+'ringcomb_acutecomb.case'</string>
   </dict>
   </lib>
 </glyph>

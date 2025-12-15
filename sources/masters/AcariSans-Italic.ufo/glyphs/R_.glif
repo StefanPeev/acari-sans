@@ -15,11 +15,11 @@
       <point x="1042.18" y="1445.38"/>
       <point x="846.592" y="1445.38" type="curve" smooth="yes"/>
       <point x="433.92" y="1445.38" type="line"/>
-      <point x="98.304" y="-2.048" type="line"/>
-      <point x="268.288" y="-2.048" type="line"/>
+      <point x="98.304" y="-2.04792" type="line"/>
+      <point x="268.288" y="-2.04792" type="line"/>
       <point x="419.84" y="645.376" type="line"/>
       <point x="666.112" y="645.376" type="line"/>
-      <point x="877.056" y="-2.048" type="line"/>
+      <point x="877.056" y="-2.04792" type="line"/>
     </contour>
     <contour>
       <point x="735.232" y="796.672" type="curve" smooth="yes"/>

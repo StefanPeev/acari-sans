@@ -37,8 +37,8 @@
       <point x="393.496" y="654.592" type="line"/>
       <point x="393.496" y="397.312"/>
       <point x="264.472" y="259.84"/>
-      <point x="43.544" y="121.088" type="curve"/>
-      <point x="15.896" y="0" type="line"/>
+      <point x="43.5441" y="121.088" type="curve"/>
+      <point x="15.8961" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

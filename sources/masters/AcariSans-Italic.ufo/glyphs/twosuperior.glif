@@ -25,7 +25,7 @@
       <point x="650.48" y="1250.64" type="curve" smooth="yes"/>
       <point x="650.529" y="1010.29"/>
       <point x="184.765" y="714.682"/>
-      <point x="-7.696" y="611.156" type="curve"/>
+      <point x="-7.69603" y="611.156" type="curve"/>
       <point x="-29.712" y="499.284" type="line"/>
     </contour>
   </outline>

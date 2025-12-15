@@ -6,12 +6,12 @@
   <anchor x="1545" y="1448" name="horn"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb_gravecomb" xOffset="1178" yOffset="406"/>
+    <component base="circumflexcomb_gravecomb.case" xOffset="1178" yOffset="412"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>O+circumflexcomb_gravecomb</string>
+  <string>O+'circumflexcomb_gravecomb.case'</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

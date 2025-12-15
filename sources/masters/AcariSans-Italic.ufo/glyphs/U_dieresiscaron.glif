@@ -7,12 +7,12 @@
   <anchor x="554" y="-120" name="bottom"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb_caroncomb" xOffset="1152.5" yOffset="428"/>
+    <component base="dieresiscomb_caroncomb.case" xOffset="1353" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>U+dieresiscomb_caroncomb</string>
+  <string>U+'dieresiscomb_caroncomb.case'</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

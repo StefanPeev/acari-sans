@@ -5,7 +5,7 @@
   <anchor x="1162" y="0" name="ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb" xOffset="1069.5" yOffset="428"/>
+    <component base="circumflexcomb" xOffset="1130" yOffset="417"/>
     <component base="dotbelowcomb" xOffset="858.75"/>
   </outline>
   <lib>

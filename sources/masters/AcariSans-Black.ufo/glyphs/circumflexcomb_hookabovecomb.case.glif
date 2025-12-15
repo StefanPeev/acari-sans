@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb.case" format="2">
+  <anchor x="-379" y="1206" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-699" y="1192" type="line" name=".av05"/>
+      <point x="-497" y="1192" type="line"/>
+      <point x="-379" y="1282" type="line"/>
+      <point x="-259" y="1192" type="line"/>
+      <point x="-59" y="1192" type="line" name=".av00"/>
+      <point x="-379" y="1431" type="line" name=".av06"/>
+    </contour>
+    <contour>
+      <point x="-157" y="1282" type="line"/>
+      <point x="34" y="1301"/>
+      <point x="117" y="1346"/>
+      <point x="117" y="1432" type="curve" smooth="yes"/>
+      <point x="117" y="1530"/>
+      <point x="4" y="1586"/>
+      <point x="-198" y="1586" type="curve" smooth="yes"/>
+      <point x="-260" y="1586" type="line"/>
+      <point x="-260" y="1470" type="line"/>
+      <point x="-125" y="1470"/>
+      <point x="-82" y="1452"/>
+      <point x="-82" y="1428" type="curve" smooth="yes"/>
+      <point x="-82" y="1408"/>
+      <point x="-105" y="1392"/>
+      <point x="-200" y="1382" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

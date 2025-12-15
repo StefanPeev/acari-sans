@@ -3,16 +3,16 @@
   <advance width="1342"/>
   <unicode hex="01FA"/>
   <anchor x="675" y="1620" name="top"/>
-  <anchor x="1281" y="-0" name="ogonek"/>
+  <anchor x="1281" y="0" name="ogonek"/>
   <anchor x="675" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb_acutecomb" xOffset="1009" yOffset="277"/>
+    <component base="ringcomb_acutecomb.case" xOffset="1009" yOffset="348"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>A+ringcomb_acutecomb</string>
+  <string>A+'ringcomb_acutecomb.case'</string>
   </dict>
   </lib>
 </glyph>

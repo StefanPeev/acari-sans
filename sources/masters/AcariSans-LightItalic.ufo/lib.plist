@@ -878,6 +878,19 @@
     <string>uinvertedbreve</string>
     <string>ijacute</string>
     <string>IJacute</string>
+    <string>circumflexcomb_gravecomb.case</string>
+    <string>circumflexcomb_acutecomb.case</string>
+    <string>circumflexcomb_tildecomb.case</string>
+    <string>circumflexcomb_hookabovecomb.case</string>
+    <string>brevecomb_gravecomb.case</string>
+    <string>brevecomb_acutecomb.case</string>
+    <string>brevecomb_tildecomb.case</string>
+    <string>brevecomb_hookabovecomb.case</string>
+    <string>dieresiscomb_gravecomb.case</string>
+    <string>dieresiscomb_acutecomb.case</string>
+    <string>dieresiscomb_macroncomb.case</string>
+    <string>dieresiscomb_caroncomb.case</string>
+    <string>ringcomb_acutecomb.case</string>
   </array>
 </dict>
 </plist>

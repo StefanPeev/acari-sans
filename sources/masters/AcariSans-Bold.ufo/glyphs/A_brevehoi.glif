@@ -7,12 +7,12 @@
   <anchor x="690" y="-150" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb_hookabovecomb" xOffset="1130" yOffset="428"/>
+    <component base="brevecomb_hookabovecomb.case" xOffset="1130" yOffset="428"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>A+brevecomb_hookabovecomb</string>
+  <string>A+'brevecomb_hookabovecomb.case'</string>
   </dict>
   </lib>
 </glyph>

@@ -56,8 +56,8 @@
       <point x="-13.217" y="114.942"/>
       <point x="-35.002" y="127.162" type="curve"/>
       <point x="-97.024" y="25.344" type="line"/>
-      <point x="-58.431" y="-5.376"/>
-      <point x="3.351" y="-22.784"/>
+      <point x="-58.431" y="-5.37602"/>
+      <point x="3.35097" y="-22.784"/>
     </contour>
   </outline>
   <guideline angle="257.168" x="902" y="878"/>
