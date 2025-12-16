@@ -75,14 +75,16 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.102</string>
+  <string>Version 1.103</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
     <integer>1</integer>
     <integer>2</integer>
+    <integer>3</integer>
     <integer>4</integer>
     <integer>7</integer>
+    <integer>8</integer>
     <integer>29</integer>
   </array>
   <key>openTypeOS2Panose</key>
@@ -192,7 +194,7 @@ Copyright (c) 2018-2023 The Acari Sans Project Authors (https://github.com/cssob
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>102</integer>
+  <integer>103</integer>
   <key>xHeight</key>
   <integer>1064</integer>
 </dict>

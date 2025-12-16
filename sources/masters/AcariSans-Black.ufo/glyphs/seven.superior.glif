@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.superior" format="2">
-  <advance width="811"/>
+  <advance width="921"/>
   <unicode hex="2077"/>
   <outline>
     <contour>
-      <point x="338" y="936" type="line" name=".av01"/>
-      <point x="769" y="1789" type="line"/>
-      <point x="769" y="1900" type="line"/>
-      <point x="56" y="1900" type="line" name=".dv02"/>
-      <point x="56" y="1701" type="line" name=".dv01"/>
-      <point x="532" y="1701" type="line"/>
-      <point x="123" y="936" type="line"/>
+      <point x="393" y="936" type="line" name=".av01"/>
+      <point x="824" y="1789" type="line"/>
+      <point x="824" y="1900" type="line"/>
+      <point x="111" y="1900" type="line" name=".dv02"/>
+      <point x="111" y="1701" type="line" name=".dv01"/>
+      <point x="587" y="1701" type="line"/>
+      <point x="178" y="936" type="line"/>
     </contour>
   </outline>
 </glyph>

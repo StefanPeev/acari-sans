@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.dnom" format="2">
-  <advance width="856"/>
+  <advance width="921"/>
   <outline>
-    <component base="four.inferior" xOffset="216.901" yOffset="815.208"/>
+    <contour>
+      <point x="568.101" y="-1" type="line"/>
+      <point x="627.493" y="253.208" type="line"/>
+      <point x="781.861" y="253.208" type="line"/>
+      <point x="804.645" y="361.752" type="line"/>
+      <point x="653.349" y="361.752" type="line"/>
+      <point x="796.709" y="966.68" type="line"/>
+      <point x="687.141" y="966.68" type="line"/>
+      <point x="68.6452" y="324.632" type="line"/>
+      <point x="54.0532" y="253.208" type="line"/>
+      <point x="504.869" y="253.208" type="line"/>
+      <point x="445.477" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="530.725" y="361.752" type="line"/>
+      <point x="222.501" y="361.752" type="line"/>
+      <point x="632.101" y="791.832" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.dnom" format="2">
-  <advance width="836"/>
+  <advance width="921"/>
   <outline>
-    <component base="two.inferior" xOffset="248.293" yOffset="925.696"/>
+    <contour>
+      <point x="684.077" y="0" type="line"/>
+      <point x="702.509" y="83.968" type="line"/>
+      <point x="168.472" y="83.9558" type="line"/>
+      <point x="167.489" y="87.9322" type="line"/>
+      <point x="219.156" y="112.882"/>
+      <point x="256.045" y="132.096"/>
+      <point x="298.029" y="159.744" type="curve" smooth="yes"/>
+      <point x="495.661" y="291.84"/>
+      <point x="815.149" y="517.12"/>
+      <point x="815.149" y="781.312" type="curve" smooth="yes"/>
+      <point x="815.149" y="920.576"/>
+      <point x="711.725" y="982.016"/>
+      <point x="583.725" y="982.016" type="curve" smooth="yes"/>
+      <point x="396.333" y="982.016"/>
+      <point x="268.333" y="841.728"/>
+      <point x="227.373" y="668.672" type="curve"/>
+      <point x="314.413" y="654.336" type="line"/>
+      <point x="347.181" y="780.288"/>
+      <point x="433.197" y="891.904"/>
+      <point x="572.461" y="891.904" type="curve" smooth="yes"/>
+      <point x="658.477" y="891.904"/>
+      <point x="709.677" y="848.896"/>
+      <point x="709.677" y="761.856" type="curve" smooth="yes"/>
+      <point x="709.677" y="631.865"/>
+      <point x="650.392" y="547.172"/>
+      <point x="422.957" y="352.256" type="curve" smooth="yes"/>
+      <point x="306.481" y="252.434"/>
+      <point x="181.293" y="169.984"/>
+      <point x="47.1485" y="96.256" type="curve"/>
+      <point x="27.6925" y="-2.8016e-05" type="line"/>
+    </contour>
   </outline>
 </glyph>

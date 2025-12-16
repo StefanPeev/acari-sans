@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.dnom" format="2">
-  <advance width="845"/>
+  <advance width="870"/>
   <outline>
-    <component base="seven.inferior" xOffset="218.826" yOffset="925.696"/>
+    <contour>
+      <point x="232.418" y="0" type="line"/>
+      <point x="860.13" y="918.528" type="line"/>
+      <point x="870.37" y="968.704" type="line"/>
+      <point x="237.538" y="968.704" type="line"/>
+      <point x="219.106" y="880.64" type="line"/>
+      <point x="743.394" y="880.64" type="line"/>
+      <point x="125.922" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>
